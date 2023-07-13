@@ -17,7 +17,7 @@ export async function POST(request: Request) {
     messages: [
       {
         role: "system",
-        content: `When responding, welcome the user always as Mr. Oling and say welcome to taskkify todo app! Limit the response to 200 characters`,
+        content: `When responding, Welcome the user always as User and say welcome to taskkify todo app! Limit the response to 200 characters`,
       },
       {
         role: "user",
