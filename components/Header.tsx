@@ -62,7 +62,7 @@ function Header() {
           </form>
 
           {/* Avatar */}
-          <Avatar name="John Anthony" round size="50" color="#0055D1" />
+          {/* <Avatar name="John Anthony" round size="50" color="#0055D1" /> */}
         </div>
       </div>
       <div className="flex items-center justify-center px-5 md:py-5 ">
